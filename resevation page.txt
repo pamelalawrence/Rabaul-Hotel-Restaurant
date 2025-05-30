@@ -1,0 +1,32 @@
+(resevation.html)
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+<title>Resevation-Rabaul Hotel Restaurant</title>
+<link rel=" stylesheet"href="styles.css">
+</head>
+<body>
+<header>
+<img src=.1743052130633jpeg"alt=logo">
+<h1>Welcome to Rabaul Hotel Restaurant</h1>
+<nav>
+<a href="index.html">Home</a>|<a href="hotel.html">Hotel</a>|<a href="dining.html">Dining</a>|<a href="reservation.html">Resevation</a>|<a href="contect.html">Contact</a>
+</nav>
+</header>
+<section>
+<form>
+<input type="text"
+placeholder="Email"required>
+<input type="date"required>
+<input type="time "required>
+<button type="submit">Reserve</button>
+</form>
+</section>
+
+<footer>&copy;2025 Rabaul Hotel Restaurant</footer>
+</body>
+</html>

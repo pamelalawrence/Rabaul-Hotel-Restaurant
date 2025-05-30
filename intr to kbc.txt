@@ -1,0 +1,61 @@
+<HTML>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewpot"
+content="width=device-width'
+initial-scale=1.0">
+ <title>KOKOPO BUSINESS COLLEGE</
+title>
+ <link rel="stylesheet"href=:style.css">
+<!--link to CSS file-->
+</head>
+<body>
+ <!--20241118_234106-->
+ <header>
+  img src="logo.png"alt=KOKOPO
+ BUESINEES COLLEGE Logo"id="logo>
+ </header>
+<!--main heading section-->
+<section id="main-heading">
+ <h1>WELCOME TO KOKOPO BUSINESS
+ COLLEGE</h1>
+ </section>
+
+<!-- subheading section-->
+<section id=:"subheading">
+  <h2>About us</h2>
+</section>
+  
+<!--body content section --><section id="body-content">
+<p>Welcome to Kokopo Business
+College, where we offer a variety 
+of courses to help you achieve your professional goals.</p>
+    <!--image1-->
+    <img src="785538442000931520"
+alt="college campus"
+class="content-image">
+   <!--image2-->
+   <img src="b8c701d2-e690-4d68-aba2-f5579a7ccf04"
+alt=students activities"
+class="content-image">
+   <h3>our courses</h3>
+<ul>
+    <li>Business Management</li>
+    <li>Accounting</li>
+    <li>Information technology</li>
+    <li>Marketing</li>
+    <li>Human Resource</li>
+ </ul>
+</section>
+ <!--contact information section-->
+ section id="contact-info">
+  <h2>contact us</h2>
+  <p>Address: Kokopo Business, East New Britain, PNG</P>
+  <P>Phone:9828556</p>
+  <p>Email:info@kbc.ac.pg</p>
+  </section>
+</body>
+</html>
+    
